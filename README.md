@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlign=center&fontAlignY=45" />
 </div>
 
 <div align="center">
@@ -36,6 +36,13 @@ My work is guided by these principles, inspired by both traditional Japanese phi
 ### 👨‍💻 About Me
 Hi, I'm a Front-End Developer who believes in the harmony of form and function. Just as Yin and Yang represent duality in unity, I blend aesthetic beauty with technical excellence to create engaging web experiences. My approach is influenced by the meticulous attention to detail seen in anime masterpieces like "Your Name" and "Suzume".
 
+### 🎨 Creative Skills
+- **Video Editing & Motion Graphics**: Proficient in Adobe Premiere Pro and After Effects
+- **Graphic Design**: Expert in Photoshop, Illustrator, and Adobe XD
+- **3D Modeling & Animation**: Experienced with Blender for 3D modeling and animation
+- **Game Development**: Familiar with Unreal Engine and Unity
+- **UI/UX Design**: Combining creative tools with web development for seamless user experiences
+
 ### 🛠️ Tech Stack
 <div align="center">
   <table>
@@ -49,12 +56,30 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
         <br>JavaScript
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
         <br>CSS
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <br>Sass
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+        <br>Redux
       </td>
     </tr>
     <tr>
@@ -67,12 +92,12 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
+        <br>Material UI
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
       </td>
     </tr>
     <tr>
@@ -85,12 +110,67 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
         <br>Express
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-        <br>React Native
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-        <br>VS Code
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+        <br>Webpack
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+        <br>Vite
+      </td>
+    </tr>
+    <!-- Creative & Multimedia Tools -->
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+        <br>Photoshop
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" />
+        <br>After Effects
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+        <br>Illustrator
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere Pro" />
+        <br>Premiere Pro
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+        <br>Blender
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
+        <br>Unreal
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+        <br>Unity
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Adobe XD" />
+        <br>Adobe XD
       </td>
     </tr>
   </table>
