@@ -1,40 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55&fontFamily=Space%20Grotesk" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=𝚂𝚞𝚐𝚊𝚝𝚛𝚊𝚓%20𝚂𝚊𝚛𝚠𝚊𝚍𝚎&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55" />
 </div>
 
-<div align="center" style="font-family: 'Space Grotesk', 'Koruri', sans-serif;">
-  <h2 style="letter-spacing: 2px;">努力 (Doryoku)</h2>
-  <p style="font-size: 1.2em; letter-spacing: 0.5px;"><i>"The magic you are looking for is in the work you are avoiding"</i></p>
-  <p style="letter-spacing: 1px;"><small>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</small></p>
+<div align="center">
+  <h2>努力 (Doryoku)</h2>
+  <p><i>『 The magic you are looking for is in the work you are avoiding 』</i></p>
+  <p><sub>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</sub></p>
 </div>
 
-<h3 align="center" style="font-family: 'Space Grotesk', sans-serif; letter-spacing: 1.5px;">💻 Passionate Front-End Developer from Pune, India 🌸</h3>
+<h3 align="center">💻 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙿𝚞𝚗𝚎, 𝙸𝚗𝚍𝚒𝚊 🌸</h3>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
   <a href="https://linkedin.com/in/sugatraj-sarwade-7ab158190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/rajx_sarwade"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-
-<div style="font-family: 'Space Grotesk', 'Koruri', sans-serif;">
 
 ### 🎋 Philosophy & Approach
 My journey follows the principle of 精進 (Shōjin) - the constant pursuit of improvement through dedicated practice. Like the interplay of Yin and Yang in my profile picture, I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
 
 <div align="center">
-  <hr style="width: 50%; border: 0; height: 1px; background: linear-gradient(to right, transparent, #ffffff66, transparent);">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%">
 </div>
 
-My work is guided by three core principles:
-- 努力 (Doryoku) - The power of consistent effort
-- 簡素 (Kanso) - Simplicity in design
-- 自然 (Shizen) - Natural elegance in implementation
-- 非対称 (Hitaishou) - Balanced asymmetry in layouts
+My work is guided by these principles:
+```text
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+努力 (Doryoku)   |  The power of consistent effort
+簡素 (Kanso)     |  Simplicity in design
+自然 (Shizen)    |  Natural elegance in implementation
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+```
 
 ### 👨‍💻 About Me
 Hi, I'm a Front-End Developer who believes in the harmony of form and function. Just as Yin and Yang represent duality in unity, I blend aesthetic beauty with technical excellence to create engaging web experiences.
 
 ### 🛠️ Tech Stack
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -42,7 +43,11 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%">
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -62,20 +67,28 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 </div>
 
 ### 🎯 Current Focus
-- Building interactive web applications with Zen-like simplicity
-- Exploring Three.js and WebGL for immersive experiences
-- Enhancing UI/UX through mindful design principles
-- Learning AI integration in web apps
-- Practicing the art of clean, maintainable code
+```text
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+▸ Building interactive web applications with Zen-like simplicity
+▸ Exploring Three.js and WebGL for immersive experiences
+▸ Enhancing UI/UX through mindful design principles
+▸ Learning AI integration in web apps
+▸ Practicing the art of clean, maintainable code
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+```
 
 ### 🌐 Find me around the web 
-- Sharing updates on [LinkedIn](https://linkedin.com/in/sugatraj-sarwade-7ab158190)
-- Follow me on [Instagram](https://instagram.com/rajx_sarwade)
-- Location: Pune, India 🍁
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">📍 Pune, India</td>
+      <td align="center"><a href="https://linkedin.com/in/sugatraj-sarwade-7ab158190">LinkedIn</a></td>
+      <td align="center"><a href="https://instagram.com/rajx_sarwade">Instagram</a></td>
+    </tr>
+  </table>
 </div>
 
-<div align="center" style="font-family: 'Space Grotesk', 'Koruri', sans-serif;">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=100&section=footer"/>
-  <p style="letter-spacing: 1px;"><i>空 (kū) - Finding beauty in emptiness, clarity in simplicity</i></p>
+  <p><i>『 空 (kū) - Finding beauty in emptiness, clarity in simplicity 』</i></p>
 </div>
