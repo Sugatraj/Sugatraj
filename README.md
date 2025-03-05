@@ -1,19 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55&fontFamily=Space%20Grotesk" />
 </div>
 
-<div align="center">
-  <h2>努力 (Doryoku)</h2>
-  <p style="font-family: 'Noto Serif JP', serif;"><i>"The magic you are looking for is in the work you are avoiding"</i></p>
-  <p><small>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</small></p>
+<div align="center" style="font-family: 'Space Grotesk', 'Koruri', sans-serif;">
+  <h2 style="letter-spacing: 2px;">努力 (Doryoku)</h2>
+  <p style="font-size: 1.2em; letter-spacing: 0.5px;"><i>"The magic you are looking for is in the work you are avoiding"</i></p>
+  <p style="letter-spacing: 1px;"><small>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</small></p>
 </div>
 
-<h3 align="center">💻 Passionate Front-End Developer from Pune, India 🌸</h3>
+<h3 align="center" style="font-family: 'Space Grotesk', sans-serif; letter-spacing: 1.5px;">💻 Passionate Front-End Developer from Pune, India 🌸</h3>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <a href="https://linkedin.com/in/sugatraj-sarwade-7ab158190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/rajx_sarwade"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
+
+<div style="font-family: 'Space Grotesk', 'Koruri', sans-serif;">
 
 ### 🎋 Philosophy & Approach
 My journey follows the principle of 精進 (Shōjin) - the constant pursuit of improvement through dedicated practice. Like the interplay of Yin and Yang in my profile picture, I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
@@ -71,7 +73,9 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 - Follow me on [Instagram](https://instagram.com/rajx_sarwade)
 - Location: Pune, India 🍁
 
-<div align="center">
+</div>
+
+<div align="center" style="font-family: 'Space Grotesk', 'Koruri', sans-serif;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=100&section=footer"/>
-  <p><i>空 (kū) - Finding beauty in emptiness, clarity in simplicity</i></p>
+  <p style="letter-spacing: 1px;"><i>空 (kū) - Finding beauty in emptiness, clarity in simplicity</i></p>
 </div>
