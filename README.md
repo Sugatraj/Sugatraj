@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <h2>陰陽 (Yin and Yang)</h2>
-  <h3>努力 (Doryoku)</h3>
+  <h2>陰陽 (In-Yō)</h2>
+  <h3>桜 (Sakura) - The Duality of Beauty</h3>
   <p><i>"The magic you are looking for is in the work you are avoiding"</i></p>
-  <p><small>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</small></p>
+  <p><small>Embracing 和 (Wa) - The harmony between effort and grace</small></p>
 </div>
 
 <h3 align="center">💻 Passionate Front-End Developer from Pune, India 🌸</h3>
@@ -17,17 +17,17 @@
 </div>
 
 ### 🎋 Philosophy & Approach
-My journey follows the principle of 精進 (Shōjin) - the constant pursuit of improvement through dedicated practice. Like the interplay of Yin and Yang in my profile picture, I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
+My journey embodies 物の哀れ (Mono no Aware) - the profound appreciation of life's transient beauty, as reflected in the cherry blossoms of my profile. Like the interplay of light and shadow, I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
 
 <div align="center">
   <hr style="width: 50%; border: 0; height: 1px; background: linear-gradient(to right, transparent, #ffffff66, transparent);">
 </div>
 
-My work is guided by three core principles:
-- 努力 (Doryoku) - The power of consistent effort
-- 簡素 (Kanso) - Simplicity in design
+My work is guided by these Japanese principles:
+- 和 (Wa) - Harmony in design and function
+- 簡素 (Kanso) - Simplicity in expression
 - 自然 (Shizen) - Natural elegance in implementation
-- 非対称 (Hitaishou) - Balanced asymmetry in layouts
+- 余白 (Yohaku) - The power of empty space
 
 ### 👨‍💻 About Me
 Hi, I'm a Front-End Developer who believes in the harmony of form and function. Just as Yin and Yang represent duality in unity, I blend aesthetic beauty with technical excellence to create engaging web experiences.
