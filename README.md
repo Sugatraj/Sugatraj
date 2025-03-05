@@ -1,8 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=𝚂𝚞𝚐𝚊𝚝𝚛𝚊𝚓%20𝚂𝚊𝚛𝚠𝚊𝚍𝚎&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=𝚂𝚞𝚐𝚊𝚝𝚛𝚊𝚓%20𝚂𝚊𝚛𝚠𝚊𝚍𝚎&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=開発者精神%20(Developer's%20Spirit)&descSize=30&descAlign=center&descAlignY=55" />
 </div>
 
 <div align="center">
+```ascii
+  +-----------------+
+  | コード道 (Kōdo-dō) |
+  | The Way of Code |
+  +-----------------+
+```
+
   <h2>努力 (Doryoku)</h2>
   <p><i>『 The magic you are looking for is in the work you are avoiding 』</i></p>
   <p><sub>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</sub></p>
@@ -16,6 +23,15 @@
 </div>
 
 ### 🎋 Philosophy & Approach
+```ascii
+     技術
+   /  術  \
+  /   と   \
+ /  芸術  \
++----------+
+  TECH &
+   ART
+```
 My journey follows the principle of 精進 (Shōjin) - the constant pursuit of improvement through dedicated practice. Like the interplay of Yin and Yang in my profile picture, I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
 
 <div align="center">
@@ -36,6 +52,12 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 
 ### 🛠️ Tech Stack
 <div align="center">
+```ascii
+ +-----------------+
+ | 技術スタック     |
+ | Tech Stack      |
+ +-----------------+
+```
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -67,13 +89,19 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 </div>
 
 ### 🎯 Current Focus
+```ascii
++------------------------+
+|  現在の焦点            |
+|  Current Focus        |
++------------------------+
+```
 ```text
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-▸ Building interactive web applications with Zen-like simplicity
-▸ Exploring Three.js and WebGL for immersive experiences
-▸ Enhancing UI/UX through mindful design principles
-▸ Learning AI integration in web apps
-▸ Practicing the art of clean, maintainable code
+▸ 技術 (Gijutsu) - Building interactive web applications with Zen-like simplicity
+▸ 探究 (Tankyū) - Exploring Three.js and WebGL for immersive experiences
+▸ 改善 (Kaizen) - Enhancing UI/UX through mindful design principles
+▸ 学習 (Gakushū) - Learning AI integration in web apps
+▸ 完璧 (Kanpeki) - Practicing the art of clean, maintainable code
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 ```
 
@@ -90,5 +118,5 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=100&section=footer"/>
-  <p><i>『 空 (kū) - Finding beauty in emptiness, clarity in simplicity 』</i></p>
+  <p><i>『 コードは詩、バグは教訓 - Code is poetry, bugs are lessons 』</i></p>
 </div>
