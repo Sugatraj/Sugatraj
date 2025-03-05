@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55" />
 </div>
 
 <div align="center">
-  <h2>陰陽 (Yin and Yang)</h2>
-  <h3>努力 (Doryoku)</h3>
-  <p><i>"The magic you are looking for is in the work you are avoiding"</i></p>
+  <h2>努力 (Doryoku)</h2>
+  <p style="font-family: 'Noto Serif JP', serif;"><i>"The magic you are looking for is in the work you are avoiding"</i></p>
   <p><small>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</small></p>
 </div>
 
@@ -45,17 +44,18 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sugatraj&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugatraj&theme=dark&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sugatraj&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sugatraj&theme=dark&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </div>
 
 ### 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/Sugatraj/Login-Page-Bootstrap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Login-Page-Bootstrap&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sugatraj&repo=Login-Page-Bootstrap&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
   </a>
+  <br/><br/>
   <a href="https://github.com/Sugatraj/Guitar-3D-Site-ThreeJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Guitar-3D-Site-ThreeJS&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sugatraj&repo=Guitar-3D-Site-ThreeJS&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
   </a>
 </div>
 
