@@ -37,15 +37,17 @@ My work is guided by these principles, inspired by both traditional Japanese phi
 Hi, I'm a Front-End Developer who believes in the harmony of form and function. Just as Yin and Yang represent duality in unity, I blend aesthetic beauty with technical excellence to create engaging web experiences. My approach is influenced by the meticulous attention to detail seen in anime masterpieces like "Your Name" and "Suzume".
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=E34F26">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&animation=spin&svgfill=1572B6">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=F7DF1E">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&animation=spin&svgfill=563D7C">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&animation=spin&svgfill=38B2AC">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&animation=spin&svgfill=ED8B00">
-</p>
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
