@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=陰陽%20(Yin%20and%20Yang)&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<div align="center" style="background: linear-gradient(45deg, #1a1a1a, #2d2d2d);">
-  <h2>努力 (Doryoku)</h2>
+<div align="center">
+  <h2>陰陽 (Yin and Yang)</h2>
+  <h3>努力 (Doryoku)</h3>
   <p><i>"The magic you are looking for is in the work you are avoiding"</i></p>
   <p><small>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</small></p>
 </div>
@@ -19,7 +20,7 @@
 My journey follows the principle of 精進 (Shōjin) - the constant pursuit of improvement through dedicated practice. Like the interplay of Yin and Yang in my profile picture, I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sugatraj/Sugatraj/main/assets/divider.png" alt="Cherry Blossom Divider" />
+  <hr style="width: 50%; border: 0; height: 1px; background: linear-gradient(to right, transparent, #ffffff66, transparent);">
 </div>
 
 My work is guided by three core principles:
@@ -44,17 +45,17 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sugatraj&show_icons=true&theme=dark&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=2d2d2d"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugatraj&theme=dark&background=000000&border=2d2d2d&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sugatraj&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugatraj&theme=dark&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </div>
 
 ### 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/Sugatraj/Login-Page-Bootstrap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Login-Page-Bootstrap&theme=dark&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=2d2d2d"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Login-Page-Bootstrap&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
   </a>
   <a href="https://github.com/Sugatraj/Guitar-3D-Site-ThreeJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Guitar-3D-Site-ThreeJS&theme=dark&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=2d2d2d"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Guitar-3D-Site-ThreeJS&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
   </a>
 </div>
 
