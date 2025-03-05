@@ -13,23 +13,25 @@
 <div align="center">
   <a href="https://linkedin.com/in/sugatraj-sarwade-7ab158190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/rajx_sarwade"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/Sugatraj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ### 🎋 Philosophy & Approach
-My journey follows the principle of 精進 (Shōjin) - the constant pursuit of improvement through dedicated practice. Like the interplay of Yin and Yang in my profile picture, I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
+My journey follows the principle of 精進 (Shōjin) - the constant pursuit of improvement through dedicated practice. Like Light Yagami's unwavering determination or Naruto's "忍道" (Ninja Way), I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
 
 <div align="center">
   <hr style="width: 50%; border: 0; height: 1px; background: linear-gradient(to right, transparent, #ffffff66, transparent);">
 </div>
 
-My work is guided by three core principles:
-- 努力 (Doryoku) - The power of consistent effort
-- 簡素 (Kanso) - Simplicity in design
-- 自然 (Shizen) - Natural elegance in implementation
-- 非対称 (Hitaishou) - Balanced asymmetry in layouts
+### 🍥 Inspirations & Principles
+My work is guided by these principles, inspired by both traditional Japanese philosophy and anime wisdom:
+- 努力 (Doryoku) - "The power of consistent effort" _- Like Naruto's path to becoming Hokage_
+- 簡素 (Kanso) - "Simplicity in design" _- Clean as Makoto Shinkai's art in "Your Name"_
+- 自然 (Shizen) - "Natural elegance in implementation" _- Flowing like Suzume's journey_
+- 正義 (Seigi) - "Justice in purpose" _- Reminiscent of L's pursuit of truth_
 
 ### 👨‍💻 About Me
-Hi, I'm a Front-End Developer who believes in the harmony of form and function. Just as Yin and Yang represent duality in unity, I blend aesthetic beauty with technical excellence to create engaging web experiences.
+Hi, I'm a Front-End Developer who believes in the harmony of form and function. Just as Yin and Yang represent duality in unity, I blend aesthetic beauty with technical excellence to create engaging web experiences. My approach is influenced by the meticulous attention to detail seen in anime masterpieces like "Your Name" and "Suzume".
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -61,10 +63,19 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 
 ### 🎯 Current Focus
 - Building interactive web applications with Zen-like simplicity
-- Exploring Three.js and WebGL for immersive experiences
+- Exploring Three.js and WebGL for immersive experiences inspired by Makoto Shinkai's visual style
 - Enhancing UI/UX through mindful design principles
-- Learning AI integration in web apps
-- Practicing the art of clean, maintainable code
+- Learning AI integration in web apps (with a touch of Death Note's strategic thinking 📓)
+- Practicing the art of clean, maintainable code - "忍道" (The Ninja Way) of coding
+
+### 🌸 Anime Inspirations
+> "In this world, wherever there is light - there are also shadows." - Masashi Kishimoto (Naruto)
+
+My favorite works that inspire my development philosophy:
+- 📓 **Death Note**: Strategic thinking and attention to detail
+- 🍥 **Naruto**: Never giving up and continuous improvement
+- 🌟 **Your Name**: Creating beautiful, meaningful connections
+- 🚪 **Suzume**: Opening doors to new possibilities in web development
 
 ### 🌐 Find me around the web 
 - Sharing updates on [LinkedIn](https://linkedin.com/in/sugatraj-sarwade-7ab158190)
@@ -74,4 +85,5 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=100&section=footer"/>
   <p><i>空 (kū) - Finding beauty in emptiness, clarity in simplicity</i></p>
+  <p><small>✨ "Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain." - Naruto Uzumaki</small></p>
 </div>
