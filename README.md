@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=陰陽%20(Yin%20and%20Yang)&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=陰陽%20(Yin%20and%20Yang)&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(45deg, #1a1a1a, #2d2d2d);">
   <h2>努力 (Doryoku)</h2>
   <p><i>"The magic you are looking for is in the work you are avoiding"</i></p>
   <p><small>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</small></p>
 </div>
 
-<h3 align="center">💻 Passionate Front-End Developer from Pune, India 🚀</h3>
+<h3 align="center">💻 Passionate Front-End Developer from Pune, India 🌸</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/sugatraj-sarwade-7ab158190"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,6 +17,10 @@
 
 ### 🎋 Philosophy & Approach
 My journey follows the principle of 精進 (Shōjin) - the constant pursuit of improvement through dedicated practice. Like the interplay of Yin and Yang in my profile picture, I believe true growth comes from embracing both the challenging and comfortable aspects of our craft.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sugatraj/Sugatraj/main/assets/divider.png" alt="Cherry Blossom Divider" />
+</div>
 
 My work is guided by three core principles:
 - 努力 (Doryoku) - The power of consistent effort
@@ -40,17 +44,17 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sugatraj&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugatraj&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sugatraj&show_icons=true&theme=dark&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=2d2d2d"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugatraj&theme=dark&background=000000&border=2d2d2d&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
 </div>
 
 ### 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/Sugatraj/Login-Page-Bootstrap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Login-Page-Bootstrap&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Login-Page-Bootstrap&theme=dark&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=2d2d2d"/>
   </a>
   <a href="https://github.com/Sugatraj/Guitar-3D-Site-ThreeJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Guitar-3D-Site-ThreeJS&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sugatraj&repo=Guitar-3D-Site-ThreeJS&theme=dark&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=2d2d2d"/>
   </a>
 </div>
 
@@ -67,6 +71,6 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 - Location: Pune, India 🍁
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=100&section=footer"/>
   <p><i>空 (kū) - Finding beauty in emptiness, clarity in simplicity</i></p>
 </div>
