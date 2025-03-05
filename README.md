@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=200&section=header&text=Sugatraj%20Sarwade&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlign=center&fontAlignY=35&desc=陰陽%20(Yin%20and%20Yang)&descSize=30&descAlign=center&descAlignY=55" />
 </div>
 
 <div align="center">
-  <h2>努力 (Doryoku)</h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=努力+(Doryoku);精進+(Shōjin);忍道+(Ninja+Way);陰陽+(Yin+and+Yang)" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
   <p style="font-family: 'Noto Serif JP', serif;"><i>"The magic you are looking for is in the work you are avoiding"</i></p>
   <p><small>- A reminder of 精進 (Shōjin) - continuous improvement through dedicated practice</small></p>
 </div>
@@ -35,13 +38,13 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=E34F26">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&animation=spin&svgfill=1572B6">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=F7DF1E">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&animation=spin&svgfill=563D7C">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&animation=spin&svgfill=38B2AC">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&animation=spin&svgfill=ED8B00">
 </p>
 
 ### 📊 GitHub Stats
@@ -50,7 +53,7 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sugatraj&theme=dark&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </div>
 
-### 🌟 Featured Projects
+<!-- ### 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/Sugatraj/Login-Page-Bootstrap">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sugatraj&repo=Login-Page-Bootstrap&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
@@ -59,7 +62,7 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
   <a href="https://github.com/Sugatraj/Guitar-3D-Site-ThreeJS">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sugatraj&repo=Guitar-3D-Site-ThreeJS&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d"/>
   </a>
-</div>
+</div> -->
 
 ### 🎯 Current Focus
 - Building interactive web applications with Zen-like simplicity
@@ -69,6 +72,10 @@ Hi, I'm a Front-End Developer who believes in the harmony of form and function. 
 - Practicing the art of clean, maintainable code - "忍道" (The Ninja Way) of coding
 
 ### 🌸 Anime Inspirations
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Death+Note%3A+Strategic+Thinking;Naruto%3A+Never+Give+Up;Your+Name%3A+Beautiful+Connections;Suzume%3A+Opening+New+Doors" alt="Anime Inspirations" /></a>
+</div>
+
 > "In this world, wherever there is light - there are also shadows." - Masashi Kishimoto (Naruto)
 
 My favorite works that inspire my development philosophy:
@@ -83,7 +90,8 @@ My favorite works that inspire my development philosophy:
 - Location: Pune, India 🍁
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,18,20&height=100&section=footer&animation=twinkling"/>
   <p><i>空 (kū) - Finding beauty in emptiness, clarity in simplicity</i></p>
   <p><small>✨ "Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain." - Naruto Uzumaki</small></p>
+  <img src="https://raw.githubusercontent.com/Sugatraj/Sugatraj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
